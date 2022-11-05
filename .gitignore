@@ -1,0 +1,64 @@
+HELP.md
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### maven ###
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### Eclipse
+.classpath
+.settings/
+.project
+bin/
+
+
+### VS Code ###
+.vscode/
+
+### gradle
+gradle-app.setting
+
+### OS
+.DS_Store
+
+### Class
+*.class
+
+### Package
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
